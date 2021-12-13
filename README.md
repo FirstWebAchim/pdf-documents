@@ -2,7 +2,7 @@
 [![dicord](https://img.shields.io/discord/727190419158597683)](https://discord.gg/9NqwJqP)
 
 ## ⚠️ Notice
-This module is under development. The module is currently not ready for productive use. You cannot find the module in the MMLC yet.
+This module is under development. The module is currently not ready for productive use. You can not find the module in the MMLC yet.
 
 ## Installation
 You can install this module with the [Modified Module Loader Client (MMLC)](http://module-loader.de).
